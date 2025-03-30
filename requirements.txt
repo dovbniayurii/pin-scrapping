@@ -1,0 +1,5 @@
+pinecone
+transformers
+torch
+Pillow
+requests
